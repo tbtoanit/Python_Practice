@@ -1,0 +1,11 @@
+f = open('input_file2.txt', encoding='UTF-8', mode='r')
+# data = f.read(6)
+# data = f.readline()
+# print(data)
+# data = f.readline()
+# print(data)
+f.seek(0)
+data = f.readlines()
+print(data)
+# f.write('ABC')
+
