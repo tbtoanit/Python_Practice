@@ -13,7 +13,7 @@ class Person(ABC): #Lớp person là lớp trừu tượng
 
 class Customer(Person):
     name = ""
-    age = 0
+    age = 20
     address = ""
     def insert(self):
         print("Insert customer")
@@ -24,7 +24,7 @@ class Customer(Person):
 
 class Employee(Person):
     name = ""
-    age = 0
+    age = 30
     address = ""
     def insert(self):
         print("Insert employee")
