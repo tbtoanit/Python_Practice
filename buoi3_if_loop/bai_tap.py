@@ -4,6 +4,10 @@ for i in range(1, 31, 1):
     if i % 3 == 0:
         print(i)
 
+for j in range (1,50,1):
+    if j % 2 == 0:
+        print (j)
+
 # Tính tổng các giá trị từ 1 => n, với n là số do người dùng nhập vào input()
 # ví dụ n = 5 thì tổng = 1+2+...+5
 # Gợi ý: sử dụng toán tử +=
