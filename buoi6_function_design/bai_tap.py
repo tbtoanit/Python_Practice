@@ -7,3 +7,4 @@ def sum_list(l):
 
 
 sum_list([1, 2, 3, 6, 9])  # => 6
+print('test commit, push git!,')# nguyenhoai test git
