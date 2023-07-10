@@ -8,3 +8,4 @@ for i in range(0, 10):
         print(i)
 
     print('bcd')
+rint("phần cập nhật 2023/07/10 thực hiện bởi Nguyễn Quang Thiện")
