@@ -40,4 +40,4 @@ s1 = '0123abiw'
 for i in range(0, len(s1)):
     if s1[i] in ('u', 'e', 'o', 'a', 'i'):
         print(i)
-print("phần cập nhật 2023/07/10 thực hiện bởi Nguyễn Quang Thiện")
+print("2023/07/10 thực hiện bởi Nguyễn Quang Thiện")
