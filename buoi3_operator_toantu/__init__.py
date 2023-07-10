@@ -48,3 +48,7 @@ print(not x == z)  # phủ định của kết quả
 ds_sn = [1, 2, 5, 8, 12]
 print(x in ds_sn)
 print(x not in ds_sn)
+
+f = 2
+g = 3
+
