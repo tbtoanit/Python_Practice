@@ -31,7 +31,7 @@ for i in range(2, a):
         break
 else:  # else của for
     print(True)  # Nếu không break thì else này sẽ được thực thi
-
+print("phần cập nhật 2023/07/10 thực hiện bởi Nguyễn Quang Thiện")
 # Bài 4: hãy in ra vị trí của nguyên âm trong chuỗi s = 'mot chuoi nao do',
 # biết rằng nguyên âm sẽ bao gồm các ký tự: u e o a i
 # Ví dụ: s = 'abcd123' => vị trí được in ra là 0
