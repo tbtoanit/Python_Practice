@@ -78,3 +78,4 @@ def bt5():
         l.append(s_revs[i])
     print(l)
 
+print(l1) #edited by ngandt 2023.07.10 - modify: print list l1 based on ticket #4532
