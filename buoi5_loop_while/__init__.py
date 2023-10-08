@@ -1,6 +1,3 @@
-# for i in range(0, 10, 1): #xác định trước được số lần lặp
-#     print(i)
-
 # vòng lặp while
 # i = 0
 # while i < 15:  # điều kiện trả về True => còn lặp/loop
