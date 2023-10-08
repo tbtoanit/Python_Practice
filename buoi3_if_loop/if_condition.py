@@ -11,8 +11,7 @@ diem_trung_binh = float(input('Vui lòng nhập điểm trung bình: '))
 #     print('Học Lực Giỏi')
 
 if diem_trung_binh < 5.0 and diem_trung_binh >= 0: #kiểm tra điều kiện có True thì thực hiện nội dung bên dưới(trong) if
-    print('Học lực yếu')
-    print('Cần cố gắng')
+    print('Học lực yếu & Cần cố gắng')
 elif diem_trung_binh >= 5.0 and diem_trung_binh < 8.0:
     print('Học Lực Khá')
 elif diem_trung_binh >= 8.0 and diem_trung_binh <= 10:
