@@ -12,7 +12,8 @@ s='12345'
 print(len(s))
 k = 'abc'
 print(s+k)
-
+c='abcd'
+print(c.upper())
 
 
 
