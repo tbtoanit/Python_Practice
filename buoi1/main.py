@@ -8,4 +8,3 @@ def chuoi(a,b):
         s.append(a[i]+b[i])
     print(s)
 chuoi([1,2,3],[3,1,2])
-#Delete code dư thừa
