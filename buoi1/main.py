@@ -10,3 +10,11 @@ def chuoi(a,b):
 chuoi([1,2,3],[3,1,2])
 s='12345'
 print(len(s))
+k = 'abc'
+print(s+k)
+
+
+
+
+
+
