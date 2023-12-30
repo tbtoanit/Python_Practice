@@ -8,3 +8,5 @@ def chuoi(a,b):
         s.append(a[i]+b[i])
     print(s)
 chuoi([1,2,3],[3,1,2])
+s='12345'
+print(len(s))
