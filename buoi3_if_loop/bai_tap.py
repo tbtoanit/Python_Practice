@@ -27,6 +27,5 @@ for i in range(0, len(nums)):
         if nums[i] + nums[j] == target:
             print([i, j]) #edit by toan tran 2023.07.10 - print list instead of variable #3412
 
-#i=0: 2+8, 2+11, 2+15, 2+7. j =1,2,3,4
-#i=1: 8+11, 8+15, 8+7. j=2,3,4
-#i=2: j=3,4
+
+
