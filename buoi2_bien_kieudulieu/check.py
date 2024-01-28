@@ -7,3 +7,6 @@ print(ds_sn)
 
 a = tuple(ds_sn) #ép kiểu (ép kiểu dữ liệu)
 print(a)
+# Project by Mr.Toan
+a="28.01.2024"
+print(a)
