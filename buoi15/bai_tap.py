@@ -20,3 +20,4 @@ class Khach_hang():
 k1 = Khach_hang()
 #code cua LEL
 #code cua Hung 
+#code cua Hoa
