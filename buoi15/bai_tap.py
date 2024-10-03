@@ -18,5 +18,3 @@ class Khach_hang():
     def xuat_thong_tin_kh(self):
         print(self.ma_kh, self.ten_kh, self.gioi_tinh, self.level_kh, self.active)
 k1 = Khach_hang()
-k1.nhap_thong_tin_kh()
-k1.xuat_thong_tin_kh()
