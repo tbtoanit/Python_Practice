@@ -19,3 +19,4 @@ class Khach_hang():
         print(self.ma_kh, self.ten_kh, self.gioi_tinh, self.level_kh, self.active)
 k1 = Khach_hang()
 #code cua LEL
+#code cua Hung 
