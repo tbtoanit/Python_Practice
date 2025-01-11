@@ -19,8 +19,4 @@ def cong_hai_so(a,b):
     return a+b #thay toan sua code practice git
 
 print("abc")
-
-
-
-
-
+print('doannhattan2000')
