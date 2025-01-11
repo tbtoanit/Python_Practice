@@ -18,7 +18,4 @@ print(c.upper())
 def cong_hai_so(a,b):
     return a+b #thay toan sua code practice git
 
-
-
-
-
+print('doannhattan2000')
