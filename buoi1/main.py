@@ -20,7 +20,7 @@ def cong_hai_so(a,b):
 
 # Ngan chinh sua code
 x = 10
-
+print(x) #Nhu them
 
 
 
