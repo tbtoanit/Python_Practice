@@ -18,6 +18,9 @@ print(c.upper())
 def cong_hai_so(a,b):
     return a+b #thay toan sua code practice git
 
+# Ngan chinh sua code
+x = 10
+
 
 
 
