@@ -8,3 +8,11 @@ a = 10
 b = 20
 c = a + b
 print('Tổng là:', c)
+
+# nhu them code 
+x = 15
+d = x + b
+print(d)
+
+
+
