@@ -22,7 +22,9 @@ def cong_hai_so(a,b):
 x = 10
 print(x) #Nhu them
 
-
+# Add new source code'
+y = 15
+print(x+y)
 
 
 
