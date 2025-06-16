@@ -9,13 +9,12 @@ b = 20
 c = a + b
 print('Tổng là:', c)
 
-
-
-
-
-
-
-x = 5
+# nhu them code 
+x = 15
 y = 10
 z = x + y
+d = x + b
 print(z)
+
+
+
