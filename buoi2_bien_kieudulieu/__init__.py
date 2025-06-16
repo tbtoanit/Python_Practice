@@ -8,3 +8,14 @@ a = 10
 b = 20
 c = a + b
 print('Tổng là:', c)
+
+
+
+
+
+
+
+x = 5
+y = 10
+z = x + y
+print(z)
