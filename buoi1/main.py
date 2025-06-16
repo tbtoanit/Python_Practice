@@ -26,7 +26,9 @@ print(x) #Nhu them
 y = 15
 print(x+y)
 
-
+# dat them code
+print("___________")
+print(x**y)
 
 
 
